@@ -48,7 +48,7 @@ public class PaymentService {
         RazorpayClient razorpayClient = new RazorpayClient(razorPayKeyId, razorPayKeySecret);
 
         // Step 2: Prepare Order details
-        int amount = 99900;                           // amount in paise
+        int amount = 9999;                           // amount in paise
         String currency = "INR";
         String receipt = PREMIUM + "_" + UUID.randomUUID().toString().substring(0, 8);
 

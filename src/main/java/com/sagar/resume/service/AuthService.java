@@ -153,7 +153,7 @@ public class AuthService {
         }
 
         if (!existingUser.isEmailVerified()) {
-            throw new RuntimeException("Please verify your email before logging in.");
+            throw new RuntimeException("Please verify your email before logging in. A verification link has already been sent to your registered email address.");
         }
 
         String token = jwtUtil.generateToken(existingUser.getId());

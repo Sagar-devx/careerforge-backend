@@ -14,7 +14,7 @@ A production-ready, highly modular REST API service that powers **CareerForge**,
 
 ## 🌐 Live Interactive API Documentation
 
-*   **Interactive API Docs (Swagger UI):** [https://careerforge-backend-wery.onrender.com](https://careerforge-backend-z4sg.onrender.com) 🚀 *(Clicking this live URL will automatically redirect HR, recruiters, and developers to the interactive Swagger UI to test all endpoints live)*
+*   **Interactive API Docs (Swagger UI):** [https://careerforge-backend-z4sg.onrender.com](https://careerforge-backend-z4sg.onrender.com) 🚀 *(Clicking this live URL will automatically redirect HR, recruiters, and developers to the interactive Swagger UI to test all endpoints live)*
 
 ---
 

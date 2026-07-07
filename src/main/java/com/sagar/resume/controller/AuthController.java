@@ -20,7 +20,6 @@ import java.util.Objects;
 import static com.sagar.resume.util.AppConstants.*;
 
 @RestController
-@Slf4j
 @RequestMapping(AUTH_CONTROLLER)
 public class AuthController {
 
